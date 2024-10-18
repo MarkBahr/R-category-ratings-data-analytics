@@ -17,8 +17,7 @@ Here's a diagram of the data model, showing the relationships between the seven 
 
 - Understanding the business problem and requirements:
 
-  Social Buzz tracks user reactions on social media, and due to recent large scale growth, they are seeking help from an analytics company because they lack resources to manage their large scale growth, they are also looking to complete an IPO because they want to be a publicly traded company, and they want to learn the best data practices.
-  Accenture aims to prove they are the best for the job by doing an audit, making IPO recommendations, and completing data analysis of the top categories. As a siumlated data analyst for Accenture, my goal is to analyze the content categories to find the top 5 categories with the largest aggregate popularity, as they had requested in the analytics brief.
+  Social Buzz tracks user reactions on social media. Due to recent large scale growth, they are seeking help from an analytics company because they lack resources to manage their large scale growth and they want to learn the best data practices. They are also are looking to complete an IPO because they want to be a publicly traded company. Accenture aims to prove they are the best for the job by doing an audit, making IPO recommendations, and completing data analysis of the top categories. As a simulated data analyst for Accenture, my goal is to analyze the content categories to find the top 5 categories with the largest aggregate popularity, as they had requested in the analytics brief.
 
 - Identifying which tasks should be the focus of the analysis:
 
