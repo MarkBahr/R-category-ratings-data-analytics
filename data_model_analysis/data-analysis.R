@@ -74,6 +74,7 @@ category_agg <- content_react %>%
     reaction_count = length(reaction_type),
     min_score = round(min(score, na.rm = TRUE), 2),
     max_score = round(max(score, na.rm = TRUE), 2),
+    med_score = round(median(score, na.rm = TRUE), 2),
     avg_score = round(mean(score, na.rm = TRUE), 2)) %>%
   arrange(desc(sum_score))
 
