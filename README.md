@@ -1,4 +1,4 @@
-# Social Buzz: Analyzing Popular Categories Using R and Tableau
+# Analyzing Popular Social Media Categories Using R and Tableau
 
 ### Purpose
 
@@ -51,4 +51,4 @@ Using Accenture's template, I created a PowerPoint presentation to communicate m
 
 ### Presentation Video
 
-My next task is to create a short video presentation for presenting the findings to the client and team members.
+I prepared PowerPoint slides and video presentation to communicate key insights for the client and stake holders. Click <a href = "https://www.youtube.com/watch?v=_NgKKJ1KclA&ab_channel=MarkBahr">here</a> to view my video presentation.
